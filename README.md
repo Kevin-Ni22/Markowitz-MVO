@@ -1,4 +1,4 @@
-# mvo - small returns demo
+# mvo
 
 This repository contains a small script `mvo.py` that downloads monthly adjusted-close prices for a short list of tickers, computes simple monthly returns, arithmetic/geometric means, population (1/T) covariance matrix, and prints/saves the results.
 
